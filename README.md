@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sampathcode12
+- 👋 Hi, I’m @Sampath
 👀 I’m interested in web development, mobile app development, and software engineering.
 🌱 I’m currently learning .NET technologies, service-oriented architecture (SOC), and advanced web development.
 💞️ I’m looking to collaborate on projects related to fitness apps, e-commerce platforms, and community-driven music platforms.
