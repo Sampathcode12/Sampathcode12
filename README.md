@@ -3,7 +3,6 @@
 🌱 I’m currently learning .NET technologies, service-oriented architecture (SOC), and advanced web development.
 💞️ I’m looking to collaborate on projects related to fitness apps, e-commerce platforms, and community-driven music platforms.
 📫 How to reach me: 287lahirusampath2000@gmail.com
-😄 Pronouns: He/Him
 ⚡ Fun fact: I love exploring different programming languages and working on creative tech solutions!
 
 
